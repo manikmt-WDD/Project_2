@@ -1,0 +1,154 @@
+
+
+h5,h6,input[type="text"],input[type="submit"],input[type="bottom"],input[type="email"],textarea{
+    font-family: 'Brandon Grotesque Medium Italic';
+}
+h1,h2,button{
+    font-family: 'Brandon Grotesque Bold Italic';
+}
+h3,h4,span{
+    font-family: 'Brandon Grotesque Light';
+}
+p,a,blockquote{
+    font-family: 'Brandon Grotesque Regular Italic';
+    color: #777777;
+    
+}
+
+.header-bg-img{
+	position:relative;
+	background-image:url("../img/bg_1.jpg");
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-position:center;
+	width:100%;
+	height:530px;
+}
+.hd-bg-overlay{
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background-color:rgba(0,0,0,.5);
+}
+.color-white{
+    color: #fff !important;
+    -webkit-transition: all ease .5s !important;
+    transition: all ease .5s !important;
+    font-size: 1.2rem;
+    margin-left: 1.5rem;
+}
+.color-white:hover{
+    color: seagreen !important;
+}
+.hd-nav-img img{
+    width:150px;
+    height: 30px;
+}
+.hd-btn{
+    font-size: 1.3rem;
+    background-color: none;
+    -webkit-transition: all ease .6s;
+    transition: all ease .6s;
+    
+    
+}
+.hd-btn:hover{
+    background-color: seagreen;
+    border: 1px solid seagreen !important;
+}
+
+.identity-bg-img{
+    background-color: #fafafa;
+}
+.identity-img{
+        margin-top: 30px;
+
+}
+
+.works-icon {
+    font-size: 2rem;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: #fff;
+    background: #222222;
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+    padding-top: 18px;
+}
+.clients {
+    background: #fafafa;
+}
+.asm-clients{}
+.asm-clients h2{}
+.asm-clients p {
+    font-size: 22px;
+}
+.clients-img{}
+.clients-img img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+.client-bg-img{
+    background-image: url("../img/bg_2.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.client-bg-img-2{
+    background-image: url("../img/bg_3.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.team{
+    background-color:#111111;
+    color: #fff;
+}
+.team p{
+    font-size: 1.3rem;
+}
+.team-post{}
+.team-post img{
+    width: 250px;
+    height: 250px;
+     border: 5px solid #fff;
+    background-color: #ddd;
+}
+.team-post h2{}
+.team-post p {
+    font-size: 1.3rem;
+}
+.social-team{}
+.social-team i {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    font-size: 22px;
+    padding-top: 10px;
+    margin-right: 15px;
+    transition: all ease .6s;
+    cursor: pointer;
+}
+.social-team i:hover{
+    background: #28a745;
+    border: 1px solid #28a745;
+}
+.say_hello{
+    background: #7690c5;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
