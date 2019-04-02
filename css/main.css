@@ -101,8 +101,8 @@ p,a,blockquote{
     background-position: center;
 }
 
-.client-bg-img-2{
-    background-image: url("../img/bg_3.png");
+.client-bg-img_2{
+    background-image: url("../img/bg-3.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
